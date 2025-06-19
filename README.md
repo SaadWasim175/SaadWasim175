@@ -1,4 +1,4 @@
-I am a typical developer :|
+Full-Stack Web Developer, with emphasis on building stable and efficient desktop & web apps.
 
 Check out my Discord server here: https://discord.gg/wzySXb2WAb
 
